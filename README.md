@@ -7,15 +7,33 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Statistics 🚀
-![natexjake's github stats](https://github-readme-stats.vercel.app/api?username=natexjake&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=natexjake&theme=tokyonight" alt="mystreak"/>
-![natexjake's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natexjake&theme=tokyonight&layout=compact)
+
+![natexjake's github stats](https://github-readme-stats.vercel.app/api?username=natexjake&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![natexjake's Streak](https://github-readme-streak-stats.herokuapp.com/?user=natexjake&theme=tokyonight&hide_border=false)<br/>
+![natexjake's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natexjake&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-snathanandrew@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:snathanandrew@gmail.com)](snathanandrew@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-nathansuarezz-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/nathansuarezz/)](https://www.instagram.com/anathansuarezz/)
+
+<a href="https://www.linkedin.com/in/nathan-andrew-suarez-92a99b1aa/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Nathan Andrew Suarez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+<!--
+<a href="mailto:" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Nathan Andrew Suarez-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+-->
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=natexjake&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+[![](https://visitcount.itsvg.in/api?id=natexjake&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 
