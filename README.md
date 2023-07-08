@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=0096FF&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning;Deep+Learning;Artificial+Intelligence" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=0096FF&center=true&vCenter=true&width=600&height=100&lines=Nathan+Andrew+Suarez;Machine+Learning;Deep+Learning;Artificial+Intelligence" alt="Typing SVG" /></a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
