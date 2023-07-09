@@ -8,7 +8,7 @@
   
 <a href="https://git.io/typing-svg">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=0096FF&center=true&vCenter=true&width=600&height=100&lines=Nathan+Andrew+Suarez;Machine+Learning;Deep+Learning;Artificial+Intelligence;+Computer+Vision;+Natural+Language+Processing;Automation;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=0096FF&center=true&vCenter=true&width=600&height=100&lines=Nathan+Andrew+Suarez;Artificial+Intelligence;Machine+Learning;Deep+Learning;Computer+Vision;Natural+Language+Processing;Automation;" alt="Typing SVG" />
 
 </a>
 
